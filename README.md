@@ -9,4 +9,4 @@ Run the code with
 ```
 
 - Final reports and paper are in /assets dir
-- youtube video for code walkthru: 
+- youtube video for code walkthru: https://youtu.be/AH2MFNeA-tg
