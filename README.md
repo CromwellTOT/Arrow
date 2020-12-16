@@ -7,5 +7,5 @@ Run the code with
 > node main.js
 ```
 
-- Final reports and paper was in /assets dir
-- youtube video for code walkthru: https://youtu.be/euFGSDYEVJo
+- Final reports and paper are in /assets dir
+- youtube video for code walkthru: 
